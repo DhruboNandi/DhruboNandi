@@ -3,15 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubanandi1256&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubanandi1256" /> </p>
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m passionate about **SQA**
 
 - 📫 How to reach me **dhrubanandi6961@gmail.com**
+-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruba nandi" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="www.linkedin.com/in/
 dhruba-nandi-a0674119b
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruba nandi" height="30" width="40" /></a>
+" target="blank">
+ 
 <a href="https://www.hackerrank.com/dhruba_nandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruba_nandi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@dhruba_nandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dhruba_nandi" height="30" width="40" /></a>
 </p>
